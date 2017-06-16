@@ -7,7 +7,7 @@
   </div>
   <div class="contact-info">
     <a href="mailto:mohamedaminasad@gmail.com.com?subject=Saw your resume online...">Mohamedaminasad@gmail.com</a><br/>
-    <a href="tel:9526868890">484.341.8486</a>
+    <a href="tel:9526868890">952-686-8890</a>
   </div>
 </header>
   
