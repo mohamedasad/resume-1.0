@@ -2,13 +2,11 @@
 <div class="resume">
 
 <header>
-  <h1>John <span>C.</span> Lueders</h1>
-  <div class="job-titles">
-    Software Architect<br/>
-    Web Developer
+  <h1>Mohamedamin <span>A.</span> Khalif </h1>
+  Soon to be Web developer
   </div>
   <div class="contact-info">
-    <a href="mailto:john@elmsoftware.com?subject=Saw your resume online...">john@elmsoftware.com</a><br/>
+    <a href="mailto:mohamedaminasad@gmail.com.com?subject=Saw your resume online...">Mohamedaminasad@gmail.com</a><br/>
     <a href="tel:9526868890">484.341.8486</a>
   </div>
 </header>
