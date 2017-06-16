@@ -99,12 +99,10 @@
     </article>
     <article>
       <h1>Hobbies</h1>
-      <p>Family time</p>
-      <p>Playing the piano</p>
-      <p>Home improvement projects</p>
-      <p>Movie making with Final Cut Pro X</p>
-      <p>Graphic Design with Photoshop / Fireworks</p>
-      <p>Developing Wordpress sites for church</p>
+      <p>Basketball</p>
+      <p> Travel </p>
+      <p>Eat</p>
+      
     </article>
   </aside>
    
